@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou William Alves 👋
 
-<!--
-**euwilliamalves/euwilliamalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolvedor Python | Inteligência Artificial | Engenharia de IA
 
-Here are some ideas to get you started:
+Sou profissional de tecnologia com experiência em suporte a sistemas, troubleshooting, análise de incidentes e bancos de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, direciono meus estudos e projetos para Engenharia de IA, com foco em aplicações utilizando LLMs, RAG, agentes inteligentes e automação.
+
+## 🚀 Tecnologias e ferramentas
+
+- **Linguagens:** Python, SQL
+- **IA:** LLMs, RAG, Embeddings
+- **Frameworks:** LangChain, LangGraph, Streamlit
+- **Bancos de dados:** SQLite, FAISS
+- **Ferramentas:** Git, GitHub
+- **APIs:** OpenAI API
+
+## 💻 Projetos em destaque
+
+- SQLRAG – Conversão de linguagem natural em consultas SQL.
+- DocIntelG – Aplicação de RAG para consulta inteligente de documentos PDF.
+- Orquestração LLM – Estudos e implementação de fluxos de orquestração com LangGraph.
+
+## 🎯 Objetivo profissional
+
+Atuar com Engenharia de IA, desenvolvendo soluções inteligentes utilizando Python, LLMs, RAG, agentes e integração com sistemas.
+
+## 📫 Contato
+
+- E-mail: alvesrobertowilliam@gmail.com
