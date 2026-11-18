@@ -1,4 +1,4 @@
-# Olá! Eu sou William Alves 👋
+# Oi! Eu sou William Alves 👋
 
 ## Desenvolvedor Python | Inteligência Artificial | Engenharia de IA
 
